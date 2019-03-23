@@ -1,0 +1,17 @@
+{
+  "event_1": {
+    "game": "pubg",
+    "price_per_kill": "20",
+    "event_code": "a101"
+  },
+  "event_2": {
+    "game": "pubg",
+    "price_per_kill": "30",
+    "event_code": "a102"
+  },
+  "event_3": {
+    "game": "dota",
+    "price_per_kill": "20",
+    "event_code": "b101"
+  }
+}
