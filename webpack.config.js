@@ -39,6 +39,7 @@ module.exports = {
     compress: true,
     host: "0.0.0.0",
 
+
     disableHostCheck: true // That solved it
   },
   plugins: [
