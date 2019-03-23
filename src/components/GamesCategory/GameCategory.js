@@ -26,7 +26,6 @@ const styles = theme => ({
   root: {
     flexGrow: 1,
     width: "100%",
-    boxShadow: "0",
     color: "#86c232"
     // backgroundColor: "black"
   },

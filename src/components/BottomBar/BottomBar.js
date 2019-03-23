@@ -32,6 +32,7 @@ class BottomBar extends React.Component {
     const { value } = this.state;
 
     return (
+      <div>
       <div className="bottombar">
         <BottomNavigation
           value={value}
@@ -65,6 +66,11 @@ class BottomBar extends React.Component {
             icon={<Person />}
           />
         </BottomNavigation>
+      </div>
+      <div className="bottomspace">
+
+      </div>
+      
       </div>
     );
   }

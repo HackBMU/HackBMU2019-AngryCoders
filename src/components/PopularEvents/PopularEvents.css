@@ -1,0 +1,44 @@
+.horizontal_scroll_2 button {
+  opacity: 1;
+}
+.horizontal_scroll_2 {
+  padding: 0.7rem 0rem;
+
+  background-color: #222629;
+  font-weight: 200;
+  color: #86c232;
+}
+
+.PopularEvents-root-143 h3 {
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 2rem;
+  padding-left: 1.6rem;
+  padding-bottom: 2rem;
+  margin: 0;
+}
+header {
+  box-shadow: none !important;
+}
+
+.PopularEvents-root-143 .MuiCardContent-root-152 {
+  background-color: #86c232 !important;
+}
+.PopularEvents-root-143 .MuiCardContent-root-152 h2 {
+  color: white;
+}
+.horizontal_scroll_2 .MuiTab-root-122 {
+  /* padding: 0rem 1.6rem; */
+  padding-left: 1.6rem;
+}
+.horizontal_scroll_2 .PopularEvents-media-145 {
+  height: 100px;
+  width: 165px;
+}
+.horizontal_scroll_2 .MuiCardContent-root-152 {
+  text-align: left;
+  padding: 6px;
+}
+.horizontal_scroll_2 .MuiCardContent-root-152 h2 {
+  margin: 0;
+}

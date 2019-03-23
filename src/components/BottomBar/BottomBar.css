@@ -10,6 +10,11 @@
   color: #a5a5a5 !important;
   /* fill: white; */
 }
-.MuiBottomNavigationAction-root-112.MuiBottomNavigationAction-selected-113 {
+.bottombar .MuiBottomNavigationAction-selected-156 {
   color: white !important;
+}
+
+.bottomspace {
+  width: 100%;
+  height: 70px;
 }
