@@ -1,3 +1,15 @@
 .control-dots {
   padding: 0;
+  /* box-shadow: ; */
+}
+.carousel .control-dots .dot {
+  background: #61892f !important;
+  /* opacity: 0.3 !important; */
+}
+
+.carousel .control-dots .dot.selected {
+  background: #61892f;
+}
+.slide {
+  width: 10%;
 }

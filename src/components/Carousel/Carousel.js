@@ -10,20 +10,20 @@ class Karousel extends Component {
         <Carousel
           showThumbs={false}
           showArrows={false}
-          autoPlay={true}
+        //   autoPlay={true}
           showStatus={false}
           infiniteLoop={true}
         >
           <div>
-            <img src="https://i.ibb.co/QKDN0kb/apex.jpg" />
+            <img src="https://i.ibb.co/yWM0ygx/Whats-App-Image-2019-03-23-at-5-39-39-PM-1.jpg" />
             
           </div>
           <div>
-            <img src="https://i.ibb.co/684L4hq/CSgo-poste.jpg" />
+            <img src="https://i.ibb.co/kSyYFvx/Whats-App-Image-2019-03-23-at-5-39-39-PM.jpg" />
             
           </div>
           <div>
-            <img src="https://i.ibb.co/X4CWQcd/pubg.jpg" />
+            <img src="https://i.ibb.co/VLbrMkk/Whats-App-Image-2019-03-23-at-5-39-39-PM-2.jpg" />
             
           </div>
         </Carousel>

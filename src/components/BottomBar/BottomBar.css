@@ -3,10 +3,11 @@
   width: 100%;
   bottom: 0;
   background-color: #212529;
+  border-top: 1px solid #86c232;
 }
 
 .icon {
-  color: #A5A5A5 !important;
+  color: #a5a5a5 !important;
   /* fill: white; */
 }
 .MuiBottomNavigationAction-root-112.MuiBottomNavigationAction-selected-113 {
