@@ -4,7 +4,7 @@ import React, { Component } from "react"
 // import Karousel from "./Carousel/Carousel";
 // import GameCategory from "./GamesCategory/GameCategory";
 // import PopularEvents from "./PopularEvents/PopularEvents";
-import Routes from "./Routes/routes";
+import Routes from "./Routes/Routes";
 
 
 class App extends Component {
