@@ -1,18 +1,17 @@
 import React, { Component } from "react";
 import "../custom.css";
-import TopBar from "../TopBar/TopBar";
+import SimpleAppBar from "../TitleBar/TitleBar";
 import BottomBar from "../BottomBar/BottomBar";
 import Karousel from "../Carousel/Carousel";
 import GameCategory from "../GamesCategory/GameCategory";
 import PopularEvents from "../PopularEvents/PopularEvents";
 
 
-const Home =() => {
+const Games =() => {
     return (
       <div>
-      <TopBar />
-        <Karousel />
-        <GameCategory />
+      <SimpleAppBar />
+        
         <PopularEvents />
         <BottomBar />
       </div>
@@ -20,4 +19,4 @@ const Home =() => {
   };
 
 
-export default Home;
+export default Games;

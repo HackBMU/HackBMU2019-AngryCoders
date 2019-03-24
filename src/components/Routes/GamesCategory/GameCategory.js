@@ -61,31 +61,31 @@ class GameCategory extends React.Component {
             variant="scrollable"
           >
             <Tab
-              label="Item One"
+              label="PUBG Mobile"
               icon={
                 <Avatar
-                  alt="Remy Sharp"
-                  src="https://i.ibb.co/yWM0ygx/Whats-App-Image-2019-03-23-at-5-39-39-PM-1.jpg"
+                  alt="PUBG"
+                  src="https://i.ibb.co/0DNYfzv/Whats-App-Image-2019-03-24-at-5-37-54-AM.jpg"
                   className={classes.avatar}
                 />
               }
             />
             <Tab
-              label="Item Two"
+              label="CS GO"
               icon={
                 <Avatar
-                  alt="Remy Sharp"
-                  src="https://i.ibb.co/yWM0ygx/Whats-App-Image-2019-03-23-at-5-39-39-PM-1.jpg"
+                  alt="CSGO"
+                  src="https://i.ibb.co/TKdQrZV/Whats-App-Image-2019-03-24-at-5-49-18-AM.jpg"
                   className={classes.avatar}
                 />
               }
             />
             <Tab
-              label="Item Three"
+              label="FIFA 19"
               icon={
                 <Avatar
-                  alt="Remy Sharp"
-                  src="https://i.ibb.co/yWM0ygx/Whats-App-Image-2019-03-23-at-5-39-39-PM-1.jpg"
+                  alt="FIFA"
+                  src="https://i.ibb.co/hFF7W0n/Whats-App-Image-2019-03-24-at-5-40-10-AM.jpg"
                   className={classes.avatar}
                 />
               }
@@ -111,11 +111,11 @@ class GameCategory extends React.Component {
               }
             />
             <Tab
-              label="Item Six"
+              label="Minimilitia"
               icon={
                 <Avatar
-                  alt="Remy Sharp"
-                  src="https://i.ibb.co/yWM0ygx/Whats-App-Image-2019-03-23-at-5-39-39-PM-1.jpg"
+                  alt="Minimilitia"
+                  src="https://i.ibb.co/PQ6fk2z/Doodle-Army-2-624x351.jpg"
                   className={classes.avatar}
                 />
               }

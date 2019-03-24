@@ -1,6 +1,6 @@
 import React from "react";
 
-const Notifications =() => {
+const User =() => {
   return (
     <div>
       <p>My Games</p>
@@ -8,4 +8,4 @@ const Notifications =() => {
   );
 };
 
-export default Notifications;
+export default User;

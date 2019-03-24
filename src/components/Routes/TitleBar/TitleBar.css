@@ -1,0 +1,12 @@
+.MuiAppBar-colorDefault-8 {
+    color: #ffffff;
+    background-color: #86C232;
+}
+  .SimpleAppBar {
+    position: fixed;
+  }
+  .topspace {
+    width: 100%;
+    height: 56px;
+  }
+  

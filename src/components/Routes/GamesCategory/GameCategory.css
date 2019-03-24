@@ -9,10 +9,10 @@
 
 .GameCategory-root-110 h3 {
   
-  /* font-weight: 600; */
+  font-weight: 200; 
   font-size: 18px;
   padding-top: 2rem;
-  padding-left: 1.6rem;
+  padding-left: 1rem;
   margin: 0;
 }
 header {
